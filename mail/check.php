@@ -40,8 +40,8 @@ $_SESSION = $_POST;//to do：正規表現によるチェック等
 					</table>
 
 	<div class="bt">
-	<input type="button" value="戻る" onclick="history.back()">
-	<input type="submit" value="送信" name="submit">
+	<input type="button" value="Back" onclick="history.back()">
+	<input type="submit" value="Submit" name="submit">
 	</div>
 </form>
 </body>
